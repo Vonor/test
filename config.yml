@@ -1,2 +1,5 @@
 ---
-Port: 3000
+# Load additional config files
+Load:
+- server
+
